@@ -54,11 +54,7 @@ export const About = () => {
           variants={fadeIn(undefined, undefined, 0.1, 1)}
           className="empty-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
         >
-          I'm a skilled website developer with experience in TypeScript and
-          Javascript, and expertise in frameworks like React, Node.js, and
-          Three.js. I'm a quick learner and collaborate closely with clients to
-          create efficient, scalable, and user-friendly solutions that solve
-          real-world problems. Let's work together to bring your ideas to life!
+          I'm a Systems & Network Technician with hands‑on experience in configuring, maintaining, and troubleshooting IT infrastructure across Windows, Linux, and enterprise network environments. I specialize in secure system administration, network stability, virtualization, and technical support. I’m a fast learner who collaborates closely with teams to deliver reliable, scalable, and efficient IT solutions that keep operations running smoothly. Let’s work together to build and maintain strong, secure systems.
         </motion.p>
 
         {/* Service Card */}
